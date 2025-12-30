@@ -2,15 +2,20 @@
   "owner": "6285752149527",
   "pairing": [
     "6287877901124",
-    "628xxxxx"
+    "6289876543210"
   ],
-  {
-  "token": {
-    "6287877901124": {
-      "pushkontak": 1,
-      "jadibot": 3,
+  "limit": {
+    "6281234567890": {
+      "pushkontak": 5,
+      "jadibot": 2,
       "sticker": 10
+    },
+    "6289876543210": {
+      "pushkontak": 0,
+      "jadibot": 0,
+      "sticker": 0
     }
   }
 }
+
 
