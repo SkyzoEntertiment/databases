@@ -4,16 +4,12 @@
     "6287877901124",
     "628xxxxx"
   ],
-  "limit": {
+  {
+  "token": {
     "6287877901124": {
       "pushkontak": 1,
-      "jadibot": 2,
+      "jadibot": 3,
       "sticker": 10
-    },
-    "6289876543210": {
-      "pushkontak": 0,
-      "jadibot": 0,
-      "sticker": 0
     }
   }
 }
