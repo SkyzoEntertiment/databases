@@ -1,12 +1,12 @@
 {
   "token": {
     "global": {
-      "pushkontak": 30
-      "jawa1": 20
-      "pushkontak2": 30
-      "jawa2": 20
-      "savekontak": 30
-      "jawa3": 20
+      "pushkontak": 2,
+      "jawa1": 1,
+      "pushkontak2": 2,
+      "jawa2": 1,
+      "savekontak": 2,
+      "jawa3": 1
     }
   }
 }
